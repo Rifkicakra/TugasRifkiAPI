@@ -1,11 +1,6 @@
-﻿using API.Context;
-using API.Models;
-using API.Repository;
-using API.Repository.Data;
+﻿using API.Repository.Data;
 using API.ViewModel;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
